@@ -51,6 +51,7 @@
     "glob": "~3.2.10",
     "graceful-fs": "~2.0.2",
     "inflight": "~1.0.1",
+    "inherits": "~2.0.1",
     "ini": "~1.2.0",
     "init-package-json": "0.0.17",
     "lockfile": "~0.4.0",
